@@ -24,15 +24,15 @@ BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCatego
 3004,300401,3004,Brick 1 x 2,1,15,White,Solid Colors,8,0.8
 3009,4211100,3009,Brick 1 x 6,85,72,Dark Bluish Gray,Solid Colors,8,2.42
 3010,4211394,3010,Brick 1 x 4,86,71,Light Bluish Gray,Solid Colors,8,1.64
-3023,4164037,3023b,Plate 1 x 2,34,27,Lime,Solid Colors,12,0.36
-3023,6240219,3023b,Plate 1 x 2,13,40,Trans-Brown,Transparent Colors,10,0.36
-3023,6514003,3023b,Plate 1 x 2,17,36,Trans-Red,Transparent Colors,8,0.36
+3023,4164037,3023,Plate 1 x 2,34,27,Lime,Solid Colors,12,0.36
+3023,6240219,3023,Plate 1 x 2,13,40,Trans-Brown,Transparent Colors,10,0.36
+3023,6514003,3023,Plate 1 x 2,17,36,Trans-Red,Transparent Colors,8,0.36
 3029,302926,3029,Plate 4 x 12,11,0,Black,Solid Colors,4,6.76
 3032,6020122,3032,Plate 4 x 6,59,320,Dark Red,Solid Colors,2,3.3
 30377,6330119,30377,"Arm Mechanical, Battle Droid",2,19,Tan,Solid Colors,2,0.15
 30503,4539070,30503,"Wedge, Plate 4 x 4 Cut Corner",59,320,Dark Red,Solid Colors,4,1.6
 3068,4539105,3068b,Tile 2 x 2,59,320,Dark Red,Solid Colors,8,0.48
-3069pb0777,6291791,3069bpb777,"Tile 1 x 2 with SW Dark Red Target Screen, Dark Red and Silver Buttons Pattern",85,72,Dark Bluish Gray,Solid Colors,2,0
+3069pb0777,6291791,3069bpr0276,"Tile 1 x 2 with SW Dark Red Target Screen, Dark Red and Silver Buttons Pattern",85,72,Dark Bluish Gray,Solid Colors,2,0
 32018,4211705,32018,"Technic, Brick 1 x 14 with Holes",86,71,Light Bluish Gray,Solid Colors,4,4.92
 32028,4249563,32028,"Plate, Modified 1 x 2 with Door Rail",1,15,White,Solid Colors,4,0.44
 32803,6344820,32803,"Slope, Curved 2 x 2 x 2/3 Inverted",85,72,Dark Bluish Gray,Solid Colors,3,0
@@ -59,7 +59,7 @@ BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCatego
 43711,4541523,43711,Wedge 4 x 2 Triple Right,59,320,Dark Red,Solid Colors,1,1.3
 43722,4179874,43722,"Wedge, Plate 3 x 2 Right",1,15,White,Solid Colors,6,0.64
 43723,4179875,43723,"Wedge, Plate 3 x 2 Left",1,15,White,Solid Colors,6,0.64
-44567b,6266251,44567b,Hinge Plate 1 x 2 Locking with 1 Finger on Side without Bottom Groove,86,71,Light Bluish Gray,Solid Colors,2,0.51
+44567b,6266251,44567,Hinge Plate 1 x 2 Locking with 1 Finger on Side without Bottom Groove,86,71,Light Bluish Gray,Solid Colors,2,0.51
 44728,6117940,44728,Bracket 1 x 2 - 2 x 2,1,15,White,Solid Colors,12,0.8
 4519,6130007,4519,"Technic, Axle  3L",3,14,Yellow,Solid Colors,2,0.43
 48336,4222017,48336,"Plate, Modified 1 x 2 with Bar Handle on Side - Closed Ends",1,15,White,Solid Colors,2,0.54
@@ -71,7 +71,7 @@ BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCatego
 54383,4539068,54383,"Wedge, Plate 6 x 3 Right",59,320,Dark Red,Solid Colors,2,1.5
 54384,4539069,54384,"Wedge, Plate 6 x 3 Left",59,320,Dark Red,Solid Colors,2,1.5
 6538c,4516546,59443,"Technic, Axle Connector 2L (Smooth with x Hole + Orientation)",85,72,Dark Bluish Gray,Solid Colors,4,0.4
-60470b,6310268,60470b,"Plate, Modified 1 x 2 with 2 Open O Clips (Horizontal Grip)",11,0,Black,Solid Colors,2,0.55
+60470b,6310268,60470,"Plate, Modified 1 x 2 with 2 Open O Clips (Horizontal Grip)",11,0,Black,Solid Colors,2,0.55
 60471,6266207,60471,Hinge Plate 1 x 2 Locking with 2 Fingers on Side,11,0,Black,Solid Colors,2,0.48
 6179,617901,6179,"Tile, Modified 4 x 4 with Studs on Edge",1,15,White,Solid Colors,2,1.94
 63965,6170418,63965,Bar   6L with Stop Ring,86,71,Light Bluish Gray,Solid Colors,4,0.44
