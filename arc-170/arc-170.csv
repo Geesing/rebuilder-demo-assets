@@ -14,7 +14,7 @@ BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCatego
 2432,4211219,2432,"Tile, Modified 1 x 2 with Bar Handle",88,70,Reddish Brown,Solid Colors,2,0.58
 2449,4532972,2449,"Slope, Inverted 75 2 x 1 x 3",1,15,White,Solid Colors,4,1.88
 2456,4181142,2456,Brick 2 x 6,1,15,White,Solid Colors,2,3.74
-2540,4210660,2540,"Plate, Modified 1 x 2 with Bar Handle on Side - Free Ends",85,72,Dark Bluish Gray,Solid Colors,9,0.63
+2540,4210660,2540,"Plate, Modified 1 x 2 with Bar Handle on Side - Free Ends",85,72,Dark Bluish Gray,Solid Colors,8,0.63
 2654,4278273,2654,"Plate, Round 2 x 2 with Rounded Bottom (Boat Stud)",86,71,Light Bluish Gray,Solid Colors,1,0.45
 26603,6156667,26603,Tile 2 x 3,1,15,White,Solid Colors,5,0.68
 2780,6279875,2780,"Technic, Pin with Short Friction Ridges",11,0,Black,Solid Colors,6,0.16
